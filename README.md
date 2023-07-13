@@ -10,6 +10,10 @@ I made the Desert War. I used the Unity Editor and C# for coding. I want to expl
 
 -Weapon System.
 
+-Sound Effects.
+
+-Graphic Effects.
+
 -Collisions.
 
 -Some kind of Obstacle.
