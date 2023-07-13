@@ -40,4 +40,4 @@ I made the Desert War. I used the Unity Editor and C# for coding. I want to expl
 
 Therefore, the name of the project have happened Desert War.
 
-This game is in stage of prototype. I'm gonna enhance and add some features.
+This game is in stage of prototype. I'm gonna enhance and add some kind of features.
