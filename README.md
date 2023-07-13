@@ -42,4 +42,8 @@ Therefore, the name of the project have happened Desert War.
 
 This game is in stage of prototype. I'm gonna enhance and add some kind of features.
 
+------------------------------------------------------------------------------------------------------------
+
 To Play: https://sharemygame.com/@Poki/desertwar
+
+Github: https://github.com/burakTuran00/DesertWar/tree/main
