@@ -34,7 +34,10 @@ I made the Desert War. I used the Unity Editor and C# for coding. I want to expl
 
 -Gather some kind of tools.
 
+------------------------------------------------------------------------------------------------------------
 
 *** I've changed the name of project because of I didin't make some kind of metro. It costs a lot for me. 
 
 Therefore, the name of the project did be Desert War.
+
+This game is in stage of prototype. I'm gonna enhance and add some features.
