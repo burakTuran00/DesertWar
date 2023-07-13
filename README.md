@@ -6,7 +6,7 @@ I made the Desert War. I used the Unity Editor and C# for coding. I want to expl
 
 -Player Mouse System.
 
--Player Shooting.
+-Player Shooting System.
 
 -Weapon System.
 
